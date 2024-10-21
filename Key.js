@@ -1,7 +1,7 @@
 function login() {
             var username = document.getElementById("username").value;
 
-            if (username === "ZBI") {
+            if (username === "11") {
                 // إخفاء نموذج تسجيل الدخول
                 document.getElementById("login-form").style.display = "none";
                 // عرض المحتوى المحمي
